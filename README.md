@@ -1,5 +1,6 @@
-# Aula #02 Introdução aos Princípios e Padrões de Arquitetura e Projeto
+# Aula #02 Introdução aos Princípios e Padrões de Projeto
 
+0. Apresentação da Semana
 1. Princípios: introdução
 2. Princípios: exemplo
 3. Padrões: introdução
@@ -11,3 +12,4 @@
 9. Padrões de Projeto
 10. Padrões GoF
 11. Atividade de Pesquisa
+12. Atividade de Codificação
